@@ -7,7 +7,7 @@
 No.|Modul|Unduh
 -----|-----|-----
 1.|JavaScript Fundamental|*[bit.ly/teen03fundamental](https://github.com/LintangWisesa/Purwadhika-Teen03-01_JSfundamental)*
-2.|Front-End Development|*[bit.ly/jc04frontend](https://github.com/LintangWisesa/Purwadhika-JC04-02_FrontEndWeb)*
+2.|Front-End Web Development|*[bit.ly/jc04frontend](https://github.com/LintangWisesa/Purwadhika-JC04-02_FrontEndWeb)*
 3.|Mobile Development|*Belum tersedia*
 4.|Internet of Things|*Belum tersedia*
 
